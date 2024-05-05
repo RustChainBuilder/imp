@@ -183,6 +183,7 @@ FLAGS:
     -h, --help                       Prints help information
     -V, --version                    Prints version information
 
+
 OPTIONS:
         --boot-nodes <ENR-LIST>           One or more comma-delimited base64-encoded ENR's to bootstrap the p2p network.
         --datadir <DIR>                   The location of the data directory to use.
